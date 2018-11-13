@@ -1,5 +1,5 @@
 /*
- * Author:  皇虫 
+ * Author:  皇虫
  * Email: 	TruthHun@QQ.COM
  * Date: 	2016-12-27
  * */
@@ -97,7 +97,8 @@ textarea{resize: none;}
 .wenku-header form.pull-right{width: 100% !important;}
 .navbar-nav>li>a{padding: 16px 24px;}
 .navbar{border-radius: 0px;margin-bottom: 15px;}
-.wenku-logo{margin: 10px 0px;height: 60px;}
+/*.wenku-logo{margin: 10px 0px;height: 60px;}*/
+.wenku-logo{margin: 0px 0px;height: 80px; width:40%;}
 #wenku-search .wenku-logo{margin:20px 0px 17px;width: 100%;height: auto;}
 .panel{margin-bottom: 15px;}
 .navbar .container, .navbar .container-fluid{padding: 0px;}
